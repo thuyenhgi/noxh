@@ -1,0 +1,11 @@
+{
+  "version": "v2.2.1",
+  "release_date": "15/10/2026",
+  "changelog": "Chuẩn hóa dự án An Phú và tự động nối câu Kinh phí bảo trì 2% vào Đợt 3.",
+  "files": [
+    "he-thong-quan-ly-ho-so-demo.html",
+    "HeThongQuanLyHoSo.py",
+    "templates.zip",
+    "version.json"
+  ]
+}
